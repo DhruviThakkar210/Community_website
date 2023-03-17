@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+:root {
+    --bg-color:#222327;
+    --text-color:#fff;
+    --main-color:#9a00bd;
+
+}
+body{
+    min-height: 100vh;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    padding: 28px 12%;
+    transition: all .50s ease;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo i{
+    color: #6220e5;
+    font-size: 28px;
+    margin-right: 3px;
+}
+.logo span{
+    color: var(--text-color);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.navbar{
+    display: flex;
+}
+.navbar a{
+    color: var(--text-color);
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 5px 0;
+    margin: 0 30px;
+    transition: all .50s ease;
+}
+.navbar a:hover{
+    color: var(--main-color);
+}
+.navbar a.active{
+    color: #9a00bd;
+
+
+}
+.main{
+    display: flex;
+}
+.main a{
+    color: var(--text-color);    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 3px 0;
+    margin-left: 10px;
+    margin-right: 25px;
+    transition: all .50s ease;
+}
+.user{
+    display: flex;
+    align-items: center;
+}
+.user i{
+    color: #6220e5;
+    font-size: 25px;
+    margin-right: 7px;
+}
+.user span{
+    color: var(--text-color);
+}
+.main a:hover{
+    color: var(--main-color);
+}
+#menu-icon{
+    font-size: 35px;
+    color: var(--text-color);
+    cursor: pointer;
+    display: none;
+}
+@media (max-width:1472px){
+    header{
+        padding: 14px 2%;
+
+    }
+    .navbar a{
+        padding: 5px 0;
+        margin: 0px 20px;
+    }
+}
+@media (max-width:1062px){
+    header{
+        padding: 7px 1%;
+
+    }
+    .navbar a{
+        padding: 5px 0;
+        margin: 0px 10px;
+    }
+}
+@media (max-width:1000px){
+    #menu-icon{
+        display: block;
+    }
+    .navbar{
+        position: absolute;
+        top: 100%;
+        right: -100%;
+        width: 270px;
+        height: 29vh;
+        background: var(--main-color);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        border-radius: 10px;
+        transition: all.50s ease;
+    }
+    .navbar a{
+        display: block;
+        margin: 5px 0;
+        padding: 0px 25px;
+        transition: all .50s ease;
+        
+    }
+    .navbar a:hover{
+        color:#6220e5 ;
+    }
+    .navbar a:active{
+        color: #6220e5;
+    }
+    .navbar.open{
+        right: 2%;
+    }
+}
