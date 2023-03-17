@@ -12,3 +12,14 @@ h2,h3{
   color:#FFD9DA;
   font-family: 'Poppins', sans-serif;
 }
+.footer-section {
+  padding: 40px 0px;
+}
+hr.footer-hr {
+  width: 55%;
+}
+@media screen and (max-width:576px){
+  .table {
+    padding-left: 40px;
+  }
+}
