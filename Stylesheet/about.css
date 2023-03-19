@@ -1,0 +1,18 @@
+.about-us {
+  margin-left: 160px;
+}
+.about-us-font {
+  font-size: 100px;
+}
+.about-para {
+  width: 850px;
+}
+.about-grid {
+  /* border: 1px wheat solid; */
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+}
+.womenpng {
+  width: 400px;
+}
