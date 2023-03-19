@@ -62,6 +62,56 @@ button.events-btn {
     height: 100%;
     transform: rotate(-90deg);
 }
+/* explore event starts here */
+.explore-events-container {
+    padding: 3rem 5rem;
+    
+}
+.explore-events-content-container{
+    display:flex;
+    justify-content: center;
+    padding: 4rem 5rem;
+    /* flex-wrap: wrap; */
+}
+.explore-events-item-container {
+    margin-right: 50px;
+    /* margin-bottom: 100px; */
+}
+.explore-events-heading {
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #a2588b;
+}
+.explore-events-quote {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.explore-events-points-container {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 25px;
+}
+button.explore-events-btn {
+    font-size: 24px;
+    margin-top: 20px;
+}
+.explore-events-points-items {
+    display: flex;
+    margin-bottom: 16px;
+}
+.tick-icon {
+    margin-right: 15px;
+}
+.explore-events-items-container {
+    margin-left: 50px;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 70px;
+}
+img.explore-events-img {
+    height: 500px;
+}
 /* all-events-section starts here */
 .all-events-container {
     padding: 6rem 5rem;
@@ -87,9 +137,10 @@ button.events-btn {
     grid-row-gap: 40px;
 }
 img.events-category-img {
-    height: 250px;
+    /* height: 250px; */
     border-radius: 5px;
     margin-bottom: 15px;
+    width:100%;
 }
 .all-events-category-items {
     padding: 20px;
@@ -108,6 +159,14 @@ img.events-category-img {
     font-size: 15px;
     color: #d8d8d8;
 }
+.all-events-btn {
+    background-color: #a2588b;
+    margin-top: 20px;
+    padding: 10px 0px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
 @media screen and (max-width:1400px){
     .all-events-category-container{
         grid-template-columns: repeat(2, 1fr);
@@ -118,7 +177,17 @@ img.events-category-img {
     .events-section-items {
         padding: 4rem 2rem;
     }
+    .explore-events-content-container {
+        display: grid;
+    }
+    .explore-events-items-container {
+        margin-left: 0px;
+    }
+    .explore-events-item-container {
+        margin-right: 0px;  
+    }
 }
+ 
 @media screen and (max-width:1200px){
     .events-section-items {
         flex-direction: column-reverse;
@@ -158,6 +227,17 @@ img.events-category-img {
     }
     .all-events-category-container {
         padding: 3rem 2rem;
+    }
+    .explore-events-content-container {
+        padding: 0rem;
+        
+    }
+    img.explore-events-img {
+        height: 360px;
+    }
+    .explore-events-img-item-container {
+        display: flex;
+        justify-content: center;
     }
 }
 @media screen and (max-width:476px){
