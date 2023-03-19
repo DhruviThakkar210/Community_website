@@ -1,14 +1,19 @@
-body{
+body {
   background-color: #0d0e10;
   color: #ffff;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-.table{
-  padding-left:80px;
+.table {
+  padding-left: 80px;
   padding-top: 30px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-h2,h3{
-  color:#FFD9DA;
-  font-family: 'Poppins', sans-serif;
+h2,
+h3 {
+  color: #ffd9da;
+  font-family: "Poppins", sans-serif;
+}
+
+.about-us-font {
+  font-size: larger;
 }
