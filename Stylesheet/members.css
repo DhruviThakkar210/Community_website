@@ -1,0 +1,316 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+body{
+    font-family: poppins;
+    background-color:rgb(13,14,16);
+}
+.members-page-community-image{
+    
+    width: 100%;
+    height: 250px;;
+    /* background: url("../images/image-Community.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: beige;
+   
+}
+img#members-page-image {
+    /* height: 150px; */
+    /* background: url(); */
+ 
+    width: 100%;
+    background-image: url(../images/memebrs-page-header-image.jpeg);
+    background-size: cover;
+    height: 100%;
+    background-position-y: center;
+    background-position-x: center;
+}
+.members-page-community-content{
+    background-color: rgb(13,14,16);
+    width:100%;
+    height:100%;
+}
+.members-page-community-content-info{
+    padding: 5rem 5rem;
+}
+/* .members-page-founder {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+} */
+.founder-image-container {
+    /* width: 550px; */
+    height: 300px;
+    
+}
+/* .founder-info {
+    width: 550px;
+} */
+.founder-image {
+    height: 300px;
+    width: 300px;
+    border: 1px solid white;
+    background-image: url(../images/Founder-image.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+
+    
+}
+.founder-name {
+    font-size: 35px;
+    color: #A2588B;
+    font-family: poppins;
+    font-weight: 500;
+    padding:15px 0px;
+    text-align:center;
+}
+.about-founder {
+    font-size: 19px;
+    color: white;
+}
+
+.members-page-community-content-managers {
+    padding: 5rem 5rem;
+}
+.community-managers-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A2588B;
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom:30px;
+}
+.community-managers-content {
+    
+    align-items: center;
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.about-community-managers {
+    height: 500px;
+    width: 350px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.community-managers-pic {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    background-image: url(../images/women.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    /* margin-bottom:35px; */
+   
+}
+.community-managers-info {
+    color: white;
+    padding: 30px 0px;
+}
+.about-community-content {
+   /* flex-wrap: wrap; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.about-community-heading {
+    color: #A2588B;
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.about-community-text {
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    
+}
+.about-community-text-content {
+    width: 500px;
+}
+.member-page-active-members {
+    padding: 4rem 4rem;
+}
+.active-members {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A2588B;
+    font-size: 35px;
+    font-weight: 500;
+    padding:50px 10px;
+}
+.memeber-page-active-list {
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap:40px;
+   grid-column-gap:2ppx;
+   
+}
+.member-page-active-member {
+    width: 330px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 400px; 
+   
+
+
+}
+.active-member-pic {
+    width: 100%;
+    height: 330px;
+    background-color: white;
+    margin-bottom: 20px;
+    background-image: url(../images/women-image-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.name-of-member{
+    font-size:18px;
+    color:white;
+    text-align:center;
+}
+.members-page-about-community {
+    padding: 5rem 5rem;
+}
+@media screen and (max-width:576px) {
+    .about-community-heading{
+        font-size: 20px;
+     }
+     .members-page-about-community{
+        padding:1rem 1rem;
+       }
+.members-page-community-content-managers{
+    padding:1rem 1rem;
+   
+}
+.active-members{
+    font-size:24px;
+}
+       .community-managers-content{
+        grid-template-columns: repeat(1,1fr);
+        justify-content: center;
+      }
+      .memeber-page-active-list{
+        grid-template-columns: repeat(1,1fr);
+      }
+      .community-managers-heading{
+        font-size:24px;
+      }
+      .members-page-founder{
+        justify-content: center;
+       }
+       .founder-name{
+        text-align: center;
+       }
+       .about-founder-text{
+        text-align: center;
+        font-size:15px;
+    }
+       .about-community-text{
+        text-align: center;
+      }
+      .members-page-community-content-info{
+        padding:1rem 1rem;
+      }
+      .about-founder{
+        font-size: 14px;
+      }
+      .members-page-community-content {
+        display: flex;
+        justify-content: center;
+    }
+      
+}
+@media screen and (min-width:576px) and (max-width:768px) {
+   .members-page-community-content-managers{
+    padding:2rem 2rem;
+   }
+    .about-community-heading{
+       font-size: 25px;
+    }
+    .community-managers-content{
+        grid-template-columns: repeat(1,1fr);
+      }
+      .community-managers-heading{
+        font-size:25px;
+      }
+      .members-page-founder{
+        justify-content: center;
+       }
+       .founder-name{
+        text-align: center;
+       }
+       .about-founder-text{
+        text-align: center;
+    }
+    .members-page-community-content{
+        display: flex;
+        justify-content: center;
+       }
+       .about-community-text{
+        text-align: center;
+      }
+      .members-page-community-content-info{
+        padding:2rem 2rem;
+      }
+      .memeber-page-active-list{
+        grid-template-columns: repeat(1,1fr);
+      }
+}
+@media screen and (min-width:768px) and (max-width:1220px) {
+    .community-managers-content{
+        grid-template-columns: repeat(2,1fr);
+      }
+      .members-page-community-content-managers{
+        padding:2rem 2rem;
+       }
+       .members-page-founder{
+        justify-content: center;
+       }
+      
+       .founder-name{
+        text-align: center;
+       }
+       .about-founder-text{
+        text-align: center;
+    }
+    .members-page-community-content-info{
+        padding:2rem 2rem;
+       }
+       .members-page-community-content{
+        display: flex;
+        justify-content: center;
+       }
+      .about-community-text{
+        text-align: center;
+      }
+      .memeber-page-active-list{
+        grid-template-columns: repeat(2,1fr);
+      }
+}
+@media screen and (max-width:1220px) {
+    .about-community-content{
+        flex-direction:column-reverse;
+    }
+    .about-community-heading{
+        text-align: center;
+    }
+    .about-community-image{
+        padding:40px 0px;
+    }
+  
+    
+}
+
