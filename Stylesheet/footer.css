@@ -31,3 +31,18 @@ hr.footer-hr {
 #footer-heading{
   color:rgb(154,94,150);
 }
+.footer-items{
+  padding: 20px 50px;
+}
+.footer-organization{
+  margin-bottom: 20px;
+}
+.footer-community{
+  margin-bottom: 20px;
+}
+.footer-socials{
+  margin-bottom: 20px;
+}
+.footer-contact-us{
+  margin-bottom: 20px;
+}
