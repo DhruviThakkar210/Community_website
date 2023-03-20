@@ -29,5 +29,9 @@ footer{
 	bottom: 0;
 }
 @media (max-height:800px){
-	footer { position: static; }
+	footer { position: static;
+    display: block;
+  		width: 100%;
+  		margin-bottom: 40px;
+  		text-align: center;}
 }
