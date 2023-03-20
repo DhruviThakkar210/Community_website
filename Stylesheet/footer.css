@@ -23,3 +23,11 @@ hr.footer-hr {
     padding-left: 40px;
   }
 }
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+@media (max-height:800px){
+	footer { position: static; }
+}
