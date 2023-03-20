@@ -23,16 +23,11 @@ hr.footer-hr {
     padding-left: 40px;
   }
 }
-
-footer{
-	position: fixed;
-	bottom: 0;
+.footer-items{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-@media (max-height:800px){
-	footer { position: static;
-    		display: block;
-  		width: 100%;
-  		margin-bottom: 40px;
-		margin-left: 0;
-  		text-align: center;}
+#footer-heading{
+  color:rgb(154,94,150);
 }
