@@ -30,8 +30,9 @@ footer{
 }
 @media (max-height:800px){
 	footer { position: static;
-    display: block;
+    		display: block;
   		width: 100%;
   		margin-bottom: 40px;
+		margin-left: 0;
   		text-align: center;}
 }
