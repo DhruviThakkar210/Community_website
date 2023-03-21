@@ -17,3 +17,11 @@ h3 {
 .about-us-font {
   font-size: larger;
 }
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+@media (max-height:800px){
+	footer { position: static; }
+}
