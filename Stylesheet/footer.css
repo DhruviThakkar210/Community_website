@@ -35,14 +35,17 @@ hr.footer-hr {
   padding: 20px 80px;
 }
 .footer-organization{
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .footer-community{
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .footer-socials{
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .footer-contact-us{
-  margin-bottom: 20px;
+  margin-bottom: 50px;
+}
+footer {
+  padding: 20px 0px;
 }
