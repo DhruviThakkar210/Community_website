@@ -34,6 +34,9 @@ header{
     display: flex;
     align-items: center;
 }
+img#nav-logo {
+    height: 50px;
+}
 .logo i{
     color: #6220e5;
     font-size: 28px;
@@ -64,7 +67,7 @@ header{
 
 }
 .main{
-    display: flex;
+    display: none;
 }
 .main a{
     color: var(--text-color);    font-size: 1.1rem;
@@ -117,6 +120,9 @@ header{
 }
 @media (max-width:1000px){
     #menu-icon{
+        display: block;
+    }
+    .main {
         display: block;
     }
     .navbar{
