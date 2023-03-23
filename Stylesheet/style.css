@@ -27,7 +27,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background: transparent;
-    padding: 28px 12%;
+    padding: 28px 7%;
     transition: all .50s ease;
 }
 .logo{
@@ -100,7 +100,7 @@ img#nav-logo {
 }
 @media (max-width:1472px){
     header{
-        padding: 14px 2%;
+        padding: 14px 5%;
 
     }
     .navbar a{
