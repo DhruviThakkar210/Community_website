@@ -160,6 +160,14 @@ img#members-page-image {
   align-items: center;
 }
 
+.swiper-button-prev{
+  color: #a2588b;
+}
+
+.swiper-button-next{
+  color: #a2588b;
+}
+
 .card {
   width: 20em;
   height: 90%;
