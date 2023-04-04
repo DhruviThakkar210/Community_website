@@ -1,18 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .about-us {
-  margin-left: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 100px;
 }
 .about-us-font {
   font-size: 100px;
+  margin-bottom: 50px;
 }
 .about-para {
-  width: 850px;
+  width: 750px;
+  /* text-align:; */
+  font-size: large;
 }
 .about-grid {
-  /* border: 1px wheat solid; */
-  justify-content: space-evenly;
+  width: 100%;
   display: flex;
-  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
 }
 .womenpng {
   width: 400px;
+  border-radius: 10px;
+}
+
+.our-impact{
+  margin-bottom: 50px;
+}
+
+.our-impact--heading{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  
+}
+
+.impact-section-images{
+  width: 100px;
+}
+.impact-section--grid{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-around;
+  align-items: center;
 }
