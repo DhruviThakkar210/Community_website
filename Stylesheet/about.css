@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -9,42 +9,102 @@
   margin-bottom: 5.208333333333333vw;
 }
 .about-us-font {
-  font-size: 5.208333333333333vw;
-  margin-bottom: 2.6041666666666665vw
-}
-.about-para {
-  width: 39.0625vw;
-  /* text-align:; */
-  font-size: large;
-}
-.about-grid {
-  width: 100vw;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-}
-.womenpng {
-  width: 20.833333333333332vw;
-  border-radius: 10px;
+  margin-top: 40px;
+  font-size: 50px;
+  margin-bottom: 40px;
+  color: #a2588b;
 }
 
-.our-impact{
+.about-us-font span {
+  color: white;
+}
+
+.about-grid{
+  margin: 100px 0 80px 0;
+  display: grid;
+  grid-template-columns: 70% 30%;
+  padding: 0 50px;
+  gap: 30px;
+}
+
+.about-heading{
+  font-size: 38px;
+  margin-bottom: 20px;
+  color: #a2588b;
+  text-align: center;
+}
+
+.about-para{
+  font-size: 18px;
+  padding: 10px 20px;
+  line-height: 30px;
+}
+
+.about-image{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.our-impact {
   margin-bottom: 50px;
 }
 
-.our-impact--heading{
-  display: flex;
-  justify-content: center;
-  margin-bottom:  2.6041666666666665vw;
-  
+.impact-heading{
+  font-size: 50px;
+  text-align: center;
 }
 
-.impact-section-images{
-  width: 5.208333333333333vw;
+.impact-cards{
+  padding: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 50px;
 }
-.impact-section--grid{
-  display: flex;
-  /* flex-direction: column; */
-  justify-content: space-around;
-  align-items: center;
+
+.impact-card{
+  border: 1px solid #a2588b;
+  border-radius: 50px;
+  width: 75%;
+  margin: auto;
+  cursor: pointer;
+}
+
+.impact-card-image{
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+}
+
+.impact-card-desc{
+  padding: 10px 15px 30px 15px;
+}
+
+.impact-card-title{
+  font-size: 20px;
+  margin-bottom: 5px;
+  color: #a2588b;
+  text-align: center;
+}
+
+.impact-card-content{
+  font-size: 15px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.impact-card-link-div{
+  text-align: right;
+  padding: 0 20px;
+}
+
+.impact-card-link{
+  font-size: 15px;
+  background-color: #a2588b;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  cursor: pointer;
 }
