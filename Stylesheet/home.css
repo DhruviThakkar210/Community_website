@@ -1,121 +1,121 @@
 .home-contents {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    padding: 5rem 8rem;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 5rem 8rem;
+  align-items: center;
 }
 h1.home-title-main {
-    font-size: 60px;
-    margin-bottom:15px;
+  font-size: 60px;
+  margin-bottom: 15px;
 }
 span.women {
-    color: #A2588B;
-    font-size: 76px;
+  color: #a2588b;
+  font-size: 76px;
 }
 button.explore-more {
-    height: 47px;
-    background-color: #6220e5;
-    border: none;
-    border-radius: 3px;
-    color: white;
-    font-size: 16px;
-    padding: 0px 30px;
+  height: 47px;
+  background-color: #6220e5;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 16px;
+  padding: 0px 30px;
 }
 .home-buttons {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 button.join-community {
-    border: 3px solid #6220e5;
-    background: transparent;
-    margin-left: 20px;
+  border: 3px solid #6220e5;
+  background: transparent;
+  margin-left: 20px;
+}
+button.explore-more,
+button.join-community {
+  cursor: pointer;
 }
 .home-img-container {
-    display: flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 1550px) {
+  .home-contents {
+    padding: 5rem 5rem;
+  }
+  h1.home-title-main {
+    font-size: 50px;
+  }
+  span.women {
+    font-size: 66px;
+  }
+  img#home-img {
+    height: 530px;
+  }
+}
+@media screen and (max-width: 1350px) {
+  img#home-img {
+    height: 480px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .home-contents {
     align-items: center;
+    flex-direction: column-reverse;
+  }
+  img#home-img {
+    height: 630px;
+  }
+  .home-content-title-section {
+    margin-top: 60px;
+    text-align: center;
+  }
+  h1.home-title-main {
+    font-size: 55px;
+  }
+  button.explore-more {
+    font-size: 18px;
+  }
+  span.women {
+    font-size: 63px;
+  }
+}
+@media screen and (max-width: 768px) {
+  img#home-img {
+    height: 430px;
+  }
+  .home-contents {
+    padding: 5rem 4rem;
+  }
+  h1.home-title-main {
+    font-size: 45px;
+  }
+  span.women {
+    font-size: 53px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .home-content-title-section {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+  }
+  .home-buttons {
+    display: flex;
+  }
+  button.explore-more {
+    height: 57px;
+    font-size: 16px;
+    padding: 0px 25px;
+  }
+  img#home-img {
+    height: 350px;
+  }
 }
-
-@media screen and (max-width: 1550px){
-    .home-contents {
-        padding: 5rem 5rem;
-    }
-    h1.home-title-main {
-        font-size: 50px;
-    }
-    span.women {
-        font-size: 66px;
-    }
-    img#home-img {
-        height: 530px;
-    }
-
-}
-@media screen and (max-width: 1350px){
-    img#home-img {
-        height: 480px;
-    }
-
-}
-@media screen and (max-width: 1200px){
-    .home-contents {
-        align-items: center;
-        flex-direction: column-reverse;
-    }
-    img#home-img {
-        height: 630px;
-    }
-    .home-content-title-section {
-        margin-top: 60px;
-        text-align: center;
-    }
-    h1.home-title-main {
-        font-size: 55px;
-    }
-    button.explore-more {
-        font-size: 18px;
-    }
-    span.women {
-        font-size: 63px;
-    }
-    
-    
-}
-@media screen and (max-width:768px){
-    img#home-img {
-        height: 430px;
-    }
-    .home-contents {
-        padding: 5rem 4rem;
-    }
-    h1.home-title-main {
-        font-size: 45px;
-    }
-    span.women {
-        font-size: 53px;
-    }
-}
-@media screen and (max-width: 576px){
-    .home-content-title-section {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    .home-buttons {
-        display: flex;
-    }
-    button.explore-more {
-        height: 57px;
-        font-size: 16px;
-        padding: 0px 25px;
-    }
-    img#home-img {
-        height: 350px;
-    }
-}
-@media screen and (max-width: 476px){
-    img#home-img {
-        height: 300px;
-    }
+@media screen and (max-width: 476px) {
+  img#home-img {
+    height: 300px;
+  }
 }
