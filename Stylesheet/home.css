@@ -119,3 +119,9 @@ button.join-community {
         height: 300px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .home-contents{
+        padding: 5rem 1rem;
+    }
+}

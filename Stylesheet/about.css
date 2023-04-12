@@ -194,3 +194,9 @@
     width: 100%;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .impact-heading{
+    font-size: 40px;
+  }
+}
