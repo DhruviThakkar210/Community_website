@@ -49,3 +49,21 @@ hr.footer-hr {
 footer {
   padding: 20px 0px;
 }
+
+@media screen and (max-width:320px){
+  .footer-items {
+    justify-content: center;
+  }
+  .footer-community{
+    text-align: center;
+  }
+  .footer-organization{
+    text-align: center;
+  }
+  .footer-socials{
+    text-align: center;
+  }
+  .footer-contact-us{
+    text-align: center;
+  }
+}

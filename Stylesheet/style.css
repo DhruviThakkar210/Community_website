@@ -121,6 +121,7 @@ img#nav-logo {
 @media (max-width:1000px){
     #menu-icon{
         display: block;
+        margin-right: 10px;
     }
     .main {
         display: block;
