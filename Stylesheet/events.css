@@ -262,3 +262,30 @@ img.events-category-img {
         height: 210px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    img.explore-events-img {
+        width: 100%;
+        height: auto;
+    }
+    .explore-events-info-item-container{
+        text-align: center;
+        padding: 0px 30px;
+    }
+    .explore-events-points-container {
+        padding: 0 5px;
+    }
+    .tick-icon{
+        margin-right: 0px;
+    }
+    .all-events-category-items {
+        width: 100%;
+        margin: auto;
+    }
+    img.events-category-img {
+        width: 100%;
+    }
+    .explore-events-container {
+        padding: 2rem;
+    }
+}

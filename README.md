@@ -30,3 +30,6 @@ At Women's Tech Hub Community, we value:
 We're always looking for volunteers and community leaders to help us grow and support our mission. If you're interested in getting involved, please contact us through our website.
 
 Thank you for considering joining the Women's Tech Hub Community. We look forward to welcoming you!
+
+Women's Tech Hub is a global community which aims to promote open source  and wants womens to grow more in tech . It is open source now .RAISE PRS 
+
