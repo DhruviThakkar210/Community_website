@@ -25,6 +25,12 @@ button.explore-more {
 .home-buttons {
     margin-top: 40px;
 }
+.home-buttons button:hover{
+    cursor: pointer;
+    background-color:#A2588B ;
+    color:white ;
+    border: none;
+}
 button.join-community {
     border: 3px solid #6220e5;
     background: transparent;
