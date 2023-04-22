@@ -49,16 +49,6 @@ hr.footer-hr {
 footer {
   padding: 20px 0px;
 }
-.footer-end{
-  display: flex;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  /* background-color: rgb(154,94,150); */
-}
-.footer-end h4{
-  margin: 0px 10px;
-}
 
 @media screen and (max-width:320px){
   .footer-items {
