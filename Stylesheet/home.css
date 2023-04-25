@@ -22,9 +22,18 @@ button.explore-more {
     font-size: 16px;
     padding: 0px 30px;
 }
+button.explore-more:hover{
+    cursor: pointer;
+    background-color:#8c52ff ;
+}
+button.join-community:hover{
+    cursor: pointer;
+    background-color: #6220e5 ;
+}
 .home-buttons {
     margin-top: 40px;
 }
+
 button.join-community {
     border: 3px solid #6220e5;
     background: transparent;
