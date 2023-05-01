@@ -7,7 +7,7 @@
  </p>
 
 
-## Our Mission💥
+## Our Mission🎯 
 Our mission is to create an inclusive community where women in tech can come together to learn, share, and grow. We believe that everyone deserves an equal opportunity to succeed in tech, and we are committed to helping women achieve their full potential.
 
 ## Who Can Join❓
@@ -39,5 +39,32 @@ Thank you for considering joining the Women's Tech Hub Community. We look forwar
 
 Women's Tech Hub is a global community which aims to promote open source  and wants womens to grow more in tech . It is open source now .RAISE PRS.
 
-## COntributing Guildlines📝
+## Contributing Guildlines📝
+To start contributing, follow the below guidelines:
+
+**1.**  Fork [this](https://github.com/DhruviThakkar210/Community_website) repository.
+
+**2.**  Clone your forked copy of the project.
+
+```
+git clone https://github.com/DhruviThakkar210/Community_website.git
+```
+
+**3.** Navigate to the project directory :file_folder: .
+
+```
+cd Community_website
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/DhruviThakkar210/Community_website.git
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
 
