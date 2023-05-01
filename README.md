@@ -1,5 +1,11 @@
-# Women's Tech Hub Community
-Welcome to the Women's Tech Hub Community! We are a global community that empowers women in tech, particularly developers, and supports their professional growth.
+
+<h1 align="center">Women's Tech Hub Community </h1>
+<p align="center">
+ <a href="">
+    <img alt="Women's Tech Community" src="https://user-images.githubusercontent.com/120579608/235424739-eba8db4b-968d-4f3f-acee-52efbaea44b0.jpg" />
+  </a>
+ </p>
+
 
 ## Our Mission
 Our mission is to create an inclusive community where women in tech can come together to learn, share, and grow. We believe that everyone deserves an equal opportunity to succeed in tech, and we are committed to helping women achieve their full potential.
