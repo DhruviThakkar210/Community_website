@@ -19,10 +19,10 @@ Joining our community is easy. Simply visit our website and sign up. You'll gain
 ## What We Offer🔥
 As a member of our community, you'll have access to a range of resources and opportunities to support your professional growth, including:
 
-- Online forums where you can connect with other women in tech, share knowledge, and ask questions.
-- Networking events where you can meet other women in tech and build your professional network.
-- Mentorship opportunities where you can learn from experienced developers and get guidance on your career.
-- Job postings and career resources to help you find your next opportunity.
+- **Online forums** where you can **connect** with other women in tech, share knowledge, and ask questions.
+- **Networking events** where you can meet other women in tech and build your professional network.
+- **Mentorship opportunities** where you can learn from experienced developers and get guidance on your career.
+- **Job postings and career resources** to help you find your next opportunity.
 
 ## Our Values:heart:
 At Women's Tech Hub Community, we value:
@@ -33,9 +33,9 @@ At Women's Tech Hub Community, we value:
 - **Empowerment**: We believe in empowering women in tech to achieve their full potential.
 
 ## Get Involved🤝
-We're always looking for volunteers and community leaders to help us grow and support our mission🎯. If you're interested in getting involved, please contact us through our website.
+We're always looking for **volunteers** and **community leaders** to help us grow and support our mission🎯. If you're interested in getting involved, please contact us through our website.
 
-Thank you for considering joining the Women's Tech Hub Community. We look forward to welcoming you!
+Thank you for considering joining the Women's Tech Hub Community. We look forward to welcoming you!.
 
 Women's Tech Hub is a global community which aims to promote open source  and wants womens to grow more in tech . It is open source now .RAISE PRS.
 
