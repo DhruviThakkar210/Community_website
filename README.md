@@ -13,10 +13,10 @@ Our mission is to create an inclusive community where women in tech can come tog
 ## Who Can Join❓
 Our community is open to women in tech from all over the world. Whether you're just starting out or you're an experienced developer, you're welcome here. We also welcome people who are interested in supporting women in tech, regardless of gender.
 
-## How to Join
+## How to Join✨
 Joining our community is easy. Simply visit our website and sign up. You'll gain access to our online forums, events, and resources, and you'll be able to connect with other women in tech from around the world.
 
-## What We Offer
+## What We Offer🔥
 As a member of our community, you'll have access to a range of resources and opportunities to support your professional growth, including:
 
 - Online forums where you can connect with other women in tech, share knowledge, and ask questions.
@@ -39,7 +39,7 @@ Thank you for considering joining the Women's Tech Hub Community. We look forwar
 
 Women's Tech Hub is a global community which aims to promote open source  and wants womens to grow more in tech . It is open source now .RAISE PRS.
 
-## Contributing Guildlines📝
+## Contributing Guildelines📝
 To start contributing, follow the below guidelines:
 
 **1.**  Fork [this](https://github.com/DhruviThakkar210/Community_website) repository.
