@@ -11,11 +11,9 @@
  ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
  ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
  ![Beginners Friendly](https://img.shields.io/badge/Beginner%20Friendly%20-Yes-orange)
- ![GitHub contributors](https://img.shields.io/github/DhruviThakkar210/contributors/ZeroOctave/ZeroOctave-Javascript-Projects?color=blue)
- [![GitHub forks](https://img.shields.io/github/forks/DhruviThakkar210/Community_website)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/network)
- [![GitHub stars](https://img.shields.io/github/stars/DhruviThakkar210/Community_website)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/stargazers)
+ [![GitHub stars](https://img.shields.io/github/stars/DhruviThakkar210/Community_website)](https://github.com/DhruviThakkar210/Community_website/stargazers)
  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
- [![GitHub issues](https://img.shields.io/github/issues/DhruviThakkar210/Community_website)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues)
+ [![GitHub issues](https://img.shields.io/github/issues/DhruviThakkar210/Community_website)](https://github.com/DhruviThakkar210/Community_website/issues)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DhruviThakkar210/Community_website?color=red&style=plastic)
 
 </div>
