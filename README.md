@@ -8,7 +8,7 @@
 
 
 ## Our Mission🎯 
-Our mission is to create an inclusive community where women in tech can come together to learn, share, and grow. We believe that everyone deserves an equal opportunity to succeed in tech, and we are committed to helping women achieve their full potential.
+Our mission is to create an inclusive community where **women** in **tech** can come together to **learn**, **share**, and **grow**. We believe that everyone deserves an equal opportunity to succeed in tech, and we are committed to helping women achieve their full potential.
 
 ## Who Can Join❓
 Our community is open to women in tech from all over the world. Whether you're just starting out or you're an experienced developer, you're welcome here. We also welcome people who are interested in supporting women in tech, regardless of gender.
@@ -27,13 +27,13 @@ As a member of our community, you'll have access to a range of resources and opp
 ## Our Values:heart:
 At Women's Tech Hub Community, we value:
 
-- Inclusivity: We believe that everyone should have an equal opportunity to succeed in tech, regardless of their background or identity.
-- Collaboration: We believe that we're stronger when we work together and support each other.
-- Continuous Learning: We believe in lifelong learning and encourage our members to continuously improve their skills and knowledge.
-- Empowerment: We believe in empowering women in tech to achieve their full potential.
+- **Inclusivity**: We believe that everyone should have an equal opportunity to succeed in tech, regardless of their background or identity.
+- **Collaboration**: We believe that we're stronger when we work together and support each other.
+- **Continuous Learning**: We believe in lifelong learning and encourage our members to continuously improve their skills and knowledge.
+- **Empowerment**: We believe in empowering women in tech to achieve their full potential.
 
 ## Get Involved🤝
-We're always looking for volunteers and community leaders to help us grow and support our mission. If you're interested in getting involved, please contact us through our website.
+We're always looking for volunteers and community leaders to help us grow and support our mission🎯. If you're interested in getting involved, please contact us through our website.
 
 Thank you for considering joining the Women's Tech Hub Community. We look forward to welcoming you!
 
