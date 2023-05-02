@@ -5,8 +5,20 @@
     <img alt="Women's Tech Community" src="https://user-images.githubusercontent.com/120579608/235424739-eba8db4b-968d-4f3f-acee-52efbaea44b0.jpg" width=400px height=400px/>
   </a>
  </p>
+<div align="center">
 
+ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg)
+ ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
+ ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+ ![Beginners Friendly](https://img.shields.io/badge/Beginner%20Friendly%20-Yes-orange)
+ ![GitHub contributors](https://img.shields.io/github/contributors/ZeroOctave/ZeroOctave-Javascript-Projects?color=blue)
+ [![GitHub forks](https://img.shields.io/github/forks/hindu-muppala/Community_website)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/network)
+ [![GitHub stars](https://img.shields.io/github/stars/hindu-muppala/Community_website)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/stargazers)
+ ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+ [![GitHub issues](https://img.shields.io/github/issues/hindu-muppala/Community_website)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/hindu-muppala/Community_website?color=red&style=plastic)
 
+</div>
 ## Our Mission🎯 
 Our mission is to create an inclusive community where **women** in **tech** can come together to **learn**, **share**, and **grow**. We believe that everyone deserves an equal opportunity to succeed in tech, and we are committed to helping women achieve their full potential.
 
