@@ -49,6 +49,9 @@ hr.footer-hr {
 footer {
   padding: 20px 0px;
 }
+.footer-organization-content {
+  color: #ffff;
+}
 
 @media screen and (max-width:320px){
   .footer-items {
