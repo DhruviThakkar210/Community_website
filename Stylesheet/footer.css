@@ -49,6 +49,7 @@ hr.footer-hr {
 footer {
   padding: 20px 0px;
 }
+
 .Contact-us-form{
 
  padding-left: 20px;
@@ -83,6 +84,10 @@ input[type=submit]:hover {
   padding: 20px;
 }
 
+
+.footer-organization-content {
+  color: #ffff;
+}
 
 @media screen and (max-width:320px){
   .footer-items {
