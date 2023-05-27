@@ -80,11 +80,12 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-   background-color: #0d0e10;
-  padding: 20px;
+  background-color: #0d0e10;
+  padding: 20px 80px;
 }
-
-
+.Contact-us-form {
+  margin-left:55px ;
+}
 .footer-organization-content {
   color: #ffff;
 }
