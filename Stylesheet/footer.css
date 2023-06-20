@@ -1,87 +1,105 @@
-body{
+body {
   background-color: #0d0e10;
   color: #ffff;
   font-family: 'Poppins', sans-serif;
 }
-.table{
-  padding-left:80px;
+
+.table {
+  padding-left: 80px;
   padding-top: 30px;
   font-family: 'Poppins', sans-serif;
 }
-h2,h3{
-  color:rgb(154,94,150);
+
+h2,
+h3 {
+  color: rgb(154, 94, 150);
   font-family: 'Poppins', sans-serif;
 }
+
 .footer-section {
   padding: 40px 0px;
 }
+
 hr.footer-hr {
   width: 55%;
 }
-@media screen and (max-width:576px){
+
+@media screen and (max-width:576px) {
   .table {
     padding-left: 40px;
   }
 }
-.footer-items{
+
+.footer-items {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
-#footer-heading{
-  color:rgb(154,94,150);
+
+#footer-heading {
+  color: rgb(154, 94, 150);
 }
-.footer-items{
+
+.footer-items {
   padding: 20px 80px;
 }
-.footer-organization{
+
+.footer-organization {
   margin-bottom: 50px;
 }
-.footer-community{
+
+.footer-community {
   margin-bottom: 50px;
 }
-.footer-socials{
+
+.footer-socials {
   margin-bottom: 50px;
 }
-.footer-contact-us{
+
+.footer-contact-us {
   margin-bottom: 50px;
 }
+
 footer {
   padding: 20px 0px;
 }
 
-.Contact-us-form{
 
- padding-left: 20px;
+.Contact-us-form {
+
+  padding-left: 20px;
+  text-align: center;
 }
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+}
+
+.inputItem {
+  padding: 10px;
+  margin: 10px 10px 20px 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+
 }
 
-input[type=submit] {
-  background-color: #6220e5;
-  color: white;
-  padding: 12px 20px;
-  border: none;
+.submitButton {
+  width: 25%;
+  margin: 10px auto;
+  padding: 5px 20px;
   border-radius: 4px;
+  border: none;
+  transition: background-color 0.5s;
+}
+
+.submitButton:hover {
   cursor: pointer;
-}
-
-input[type=submit]:hover {
   background-color: #8c52ff;
-}
-
-.container {
-  border-radius: 5px;
-   background-color: #0d0e10;
-  padding: 20px;
 }
 
 
@@ -89,20 +107,24 @@ input[type=submit]:hover {
   color: #ffff;
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:320px) {
   .footer-items {
     justify-content: center;
   }
-  .footer-community{
+
+  .footer-community {
     text-align: center;
   }
-  .footer-organization{
+
+  .footer-organization {
     text-align: center;
   }
-  .footer-socials{
+
+  .footer-socials {
     text-align: center;
   }
-  .footer-contact-us{
+
+  .footer-contact-us {
     text-align: center;
   }
 }
